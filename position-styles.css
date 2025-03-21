@@ -1,0 +1,15 @@
+.relative-box { 
+    position: relative; 
+    top: 50px; /* Changed from 20px to 50px */
+    left: 50px; /* Changed from 30px to 50px */
+    background-color: lightblue; 
+    padding: 20px; 
+} 
+
+.absolute-box { 
+    position: absolute; 
+    top: 100px; /* Changed from 50px to 100px */
+    left: 150px; /* Changed from 100px to 150px */
+    background-color: lightcoral; 
+    padding: 20px; 
+}
